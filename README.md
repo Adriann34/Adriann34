@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Adrian 👋
 
-<!--
-**Adriann34/Adriann34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from the Philippines 🇵🇭
 
-Here are some ideas to get you started:
+I love the frontend most — it's what turns the backend into something people can actually enjoy using. I build mainly with **React**, **TypeScript**, and **Tailwind**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Comfortable with:**
+React · TypeScript · Tailwind CSS · PHP · Firebase · Node.js
+
+**Currently leveling up:**
+Supabase · Next.js · Express
+
+## 🎮 Outside of Code
+
+- 🍥 Anime fan
+- 🎮 Gamer
+- 🧩 I love building tools for my own hobbies
+- ⚡ Building stuff is just exciting and fulfilling to me
+
+---
+📫 Feel free to connect or check out my repos below!
