@@ -19,5 +19,3 @@ Supabase · Next.js · Express
 - 🧩 I love building tools for my own hobbies
 - ⚡ Building stuff is just exciting and fulfilling to me
 
----
-📫 Feel free to connect or check out my repos below!
