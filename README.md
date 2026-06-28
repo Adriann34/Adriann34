@@ -14,8 +14,8 @@ Supabase · Next.js · Express
 
 ## 🎮 Outside of Code
 
-- 🍥 Anime fan
-- 🎮 Gamer
-- 🧩 I love building tools for my own hobbies
-- ⚡ Building stuff is just exciting and fulfilling to me
+- Anime fan
+- Gamer
+- I love building tools for my own hobbies
+- Building stuff is just exciting and fulfilling to me
 
