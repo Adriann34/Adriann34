@@ -2,7 +2,7 @@
 
 Full Stack Developer from the Philippines 🇵🇭
 
-I love the frontend most — it's what turns the backend into something people can actually enjoy using. I build mainly with **React**, **TypeScript**, and **Tailwind**.
+I love the frontend most, it's what turns the backend into something people can actually enjoy using. I build mainly with **React**, **TypeScript**, and **Tailwind**.
 
 ## 🛠️ Tech Stack
 
