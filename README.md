@@ -12,7 +12,7 @@ I love the frontend most, it's what turns the backend into something people can 
 
 **Leveling up:**
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,drizzle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev)
 
 ## 🎮 Outside of Code
 
