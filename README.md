@@ -8,11 +8,11 @@ I love the frontend most, it's what turns the backend into something people can 
 
 **Comfortable with:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,php,firebase,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,nodejs,express,php,prisma,postgres,firebase,supabase)](https://skillicons.dev)
 
 **Leveling up:**
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,nextjs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,drizzle)](https://skillicons.dev)
 
 ## 🎮 Outside of Code
 
