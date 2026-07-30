@@ -1,6 +1,6 @@
 # Hi, I'm Adrian 👋
 
-Full Stack Developer from the Philippines 🇵🇭
+Full Stack Developer from the Philippines
 
 I build mainly with React, Next.js, TypeScript, Tailwind, Prisma, PostgreSQL, and Supabase
 
