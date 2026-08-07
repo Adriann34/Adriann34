@@ -1,10 +1,10 @@
-# Hi, I'm Adrian 👋
+# Hi, I'm Adrian
 
 Full Stack Developer from the Philippines
 
 I build mainly with React, Next.js, TypeScript, Tailwind, Prisma, PostgreSQL, and Supabase
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Comfortable with:**
 
@@ -14,7 +14,7 @@ I build mainly with React, Next.js, TypeScript, Tailwind, Prisma, PostgreSQL, an
 
 [![My Skills](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev)
 
-## 🎮 Outside of Code
+## Outside of Code
 
 - Anime fan
 - Gamer
