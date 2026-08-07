@@ -1,4 +1,4 @@
-# Hi, I'm Adrian
+# Hi! I'm Adrian
 
 Full Stack Developer from the Philippines
 
